@@ -1,0 +1,10 @@
+marks_obtained=2
+total_marks=4
+percentage=(marks_obtained/total_marks)*100
+print(percentage,"%"  )
+
+x='I am a UB Student'
+print(x[0])
+print(x[2])
+print(x[3])
+print(x[-16])
